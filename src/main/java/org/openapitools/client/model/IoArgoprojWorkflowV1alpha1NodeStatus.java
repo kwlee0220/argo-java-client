@@ -806,6 +806,7 @@ public class IoArgoprojWorkflowV1alpha1NodeStatus {
     openapiFields.add("templateRef");
     openapiFields.add("templateScope");
     openapiFields.add("type");
+    openapiFields.add("taskResultSynced");
 
     // a set of required properties/fields (JSON key names)
     openapiRequiredFields = new HashSet<String>();
